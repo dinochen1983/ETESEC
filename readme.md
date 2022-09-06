@@ -7,7 +7,7 @@
 
 # ETE-Section
 
-![](https://github.com/dinochen1983/DINOETE/blob/main/ETE-SEC/cap_screen1.jpeg?raw=true)
+![](https://raw.githubusercontent.com/dinochen1983/ETE-Section/main/images/pimages01.jpg?raw=true)
 
 -Dino Chen
 -dino.chen@wsp.com, dinochenxuewei@gmail.com
