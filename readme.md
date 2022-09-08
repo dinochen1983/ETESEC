@@ -10,4 +10,4 @@
 ![](https://raw.githubusercontent.com/dinochen1983/ETE-Section/main/images/pimages01.jpg?raw=true)
 
 -Dino Chen
--dino.chen@wsp.com, dinochenxuewei@gmail.com
+-dinochen1983@qq.com
